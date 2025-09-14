@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://github.com/backtomyJune/Dual_porosity-with-hydro-mechanical-chemical-/">中文</a>
+  <a href="https://github.com/backtomyJune/Dual_porosity-with-hydro-mechanical-chemical/">中文</a>
   ｜
-  <a href="https://github.com/backtomyJune/Dual_porosity-with-hydro-mechanical-chemical-/blob/main/README_en.md">English</a>
+  <a href="https://github.com/backtomyJune/Dual_porosity-with-hydro-mechanical-chemical/blob/main/README_en.md">English</a>
 </p>
 
 # DP-HMC 多物理场耦合：膨润土基防渗材料服役性能预测求解器平台
