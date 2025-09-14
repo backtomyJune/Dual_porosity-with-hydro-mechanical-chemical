@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/backtomyJune/Dual_porosity-with-hydro-mechanical-chemical-/">中文</a>
+  <a href="https://github.com/backtomyJune/Dual_porosity-with-hydro-mechanical-chemical/">中文</a>
   ｜
   English
 </p>
 
-# Dual_porosity-with-hydro-mechanical-chemical-
+# Dual_porosity-with-hydro-mechanical-chemical
 DP and H-M-C Multi-Field Coupling Solver Platform for Cohesive Soil
 
 # DP-HMC Coupling Simulator: Service Life Prediction for Bentonite-Based Anti-Seepage Materials
